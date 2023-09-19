@@ -1,3 +1,3 @@
-const boolVal = require("./exportBoolean.js");
+import newArray from "./exportArray.mjs";
 
-console.log(boolVal);
+console.log(newArray);
