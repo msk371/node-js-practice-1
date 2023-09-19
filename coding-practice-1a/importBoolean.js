@@ -1,3 +1,3 @@
-const boolnval = require("./exportBoolean.js");
+const boolVal = require("./exportBoolean.js");
 
-console.log(boolnval);
+console.log(boolVal);
