@@ -1,1 +1,0 @@
-const statement = require("./exportFunction");
